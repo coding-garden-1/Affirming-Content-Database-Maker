@@ -4,7 +4,7 @@ from collections import defaultdict
 import json
 
 # Create OpenAI instance
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="sk-proj-DUB4qdxFJl4JCJCBepndT3BlbkFJsaqdzEoCHwNMJlXfVMLq")
 
 # Define the llm_call function
 def llm_call(system_content, user_content):
