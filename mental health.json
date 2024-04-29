@@ -1,0 +1,609 @@
+{
+    "positive assumptions": {
+        "Noun": [
+            "assumptions"
+        ]
+    },
+    "trust": {
+        "Noun": [
+            "trust"
+        ]
+    },
+    "support": {
+        "Noun": [
+            "selfesteem"
+        ]
+    },
+    "nourish": {
+        "Noun": [
+            "trust"
+        ]
+    },
+    "anxiety": {
+        "Noun": [
+            "selfesteem"
+        ]
+    },
+    "amazing resolutions": {
+        "Noun": [
+            "resolutions"
+        ]
+    },
+    "evil perceptions": {
+        "Noun": [
+            "perceptions"
+        ]
+    },
+    "every topic": {
+        "Noun": [
+            "topics"
+        ]
+    },
+    "confidence": {
+        "Noun": [
+            "selfesteem"
+        ]
+    },
+    "confidence in my ability": {
+        "Noun": [
+            "confidence"
+        ]
+    },
+    "state of confidence": {
+        "Noun": [
+            "confidence"
+        ]
+    },
+    "complete confidence": {
+        "Noun": [
+            "confidence"
+        ]
+    },
+    "interactions with others": {
+        "Noun": [
+            "interactions"
+        ]
+    },
+    "cultivate a state": {
+        "Noun": [
+            "cultivate"
+        ]
+    },
+    "solutions": {
+        "Noun": [
+            "selfesteem"
+        ]
+    },
+    "people love me": {
+        "Noun": [
+            "support"
+        ]
+    },
+    "worries": {
+        "Noun": [
+            "mind"
+        ]
+    },
+    "any worries": {
+        "Noun": [
+            "worries"
+        ]
+    },
+    "inner powers": {
+        "Noun": [
+            "selfesteem"
+        ]
+    },
+    "greatest inner powers": {
+        "Noun": [
+            "powers"
+        ]
+    },
+    "humans": {
+        "Noun": [
+            "humans"
+        ]
+    },
+    "detaching my brain": {
+        "Noun": [
+            "detaching"
+        ],
+        "Verb": [
+            "detaching",
+            "detach"
+        ]
+    },
+    "this mountain": {
+        "Noun": [
+            "mountain"
+        ]
+    },
+    "life": {
+        "Noun": [
+            "life"
+        ]
+    },
+    "positive": {
+        "Adjective": [
+            "positive"
+        ]
+    },
+    "amazing": {
+        "Adjective": [
+            "amazing"
+        ]
+    },
+    "utmost": {
+        "Adjective": [
+            "uttermost"
+        ]
+    },
+    "completely": {
+        "Adjective": [
+            "complete"
+        ]
+    },
+    "completely empowered": {
+        "Adjective": [
+            "complete"
+        ]
+    },
+    "completely embodying": {
+        "Adjective": [
+            "complete"
+        ]
+    },
+    "fully supported": {
+        "Adjective": [
+            "fully"
+        ]
+    },
+    "fully understood": {
+        "Adjective": [
+            "fully"
+        ]
+    },
+    "aligned with my greatest": {
+        "Adjective": [
+            "greatest"
+        ]
+    },
+    "making positive assumptions": {
+        "Verb": [
+            "making"
+        ]
+    },
+    "trust them": {
+        "Verb": [
+            "trusting"
+        ]
+    },
+    "trust that things will work out": {
+        "Verb": [
+            "trusting"
+        ]
+    },
+    "trust and knowing securely": {
+        "Verb": [
+            "trusting"
+        ]
+    },
+    "nourish me": {
+        "Noun": [
+            "nourishment"
+        ]
+    },
+    "holding any anxiety": {
+        "Noun": [
+            "anxiety"
+        ]
+    },
+    "imagining amazing resolutions": {
+        "Verb": [
+            "imagining"
+        ]
+    },
+    "faithful to feeling happy": {
+        "Adjective": [
+            "faithful"
+        ]
+    },
+    "negatively projecting": {
+        "Verb": [
+            "projecting"
+        ]
+    },
+    "approaching every topic": {
+        "Verb": [
+            "approaching"
+        ]
+    },
+    "create": {
+        "Verb": [
+            "creating"
+        ]
+    },
+    "create the changes I desire": {
+        "Verb": [
+            "trusting",
+            "create"
+        ]
+    },
+    "create solutions": {
+        "Verb": [
+            "creating"
+        ]
+    },
+    "create a state of confidence": {
+        "Verb": [
+            "creating"
+        ]
+    },
+    "translates in my interactions": {
+        "Verb": [
+            "translates"
+        ]
+    },
+    "cultivating a state": {
+        "Verb": [
+            "cultivating"
+        ]
+    },
+    "identifying as someone": {
+        "Verb": [
+            "identify"
+        ]
+    },
+    "understood by the humans": {
+        "Verb": [
+            "understood"
+        ]
+    },
+    "say to this mountain": {
+        "Verb": [
+            "say"
+        ]
+    },
+    "'Be lifted up": {
+        "Verb": [
+            "lifted"
+        ]
+    },
+    "'and thrown into the sea": {
+        "Verb": [
+            "thrown"
+        ]
+    },
+    "nourishment": {
+        "Noun": [
+            "selfesteem"
+        ]
+    },
+    "resolutions": {
+        "Noun": [
+            "selfesteem"
+        ]
+    },
+    "faith": {
+        "Noun": [
+            "selfesteem"
+        ]
+    },
+    "empowerment": {
+        "Noun": [
+            "selfesteem"
+        ]
+    },
+    "changes": {
+        "Noun": [
+            "selfesteem"
+        ]
+    },
+    "interactions": {
+        "Noun": [
+            "selfesteem"
+        ]
+    },
+    "power": {
+        "Noun": [
+            "selfesteem"
+        ]
+    },
+    "people in my life": {
+        "Noun": [
+            "relationships"
+        ]
+    },
+    "humans around them": {
+        "Noun": [
+            "relationships"
+        ]
+    },
+    "feelings": {
+        "Noun": [
+            "mind"
+        ]
+    },
+    "things being created": {
+        "Noun": [
+            "life"
+        ]
+    },
+    "topics": {
+        "Noun": [
+            "life"
+        ]
+    },
+    "happy": {
+        "Adjective": [
+            "positive"
+        ]
+    },
+    "supported": {
+        "Adjective": [
+            "positive"
+        ]
+    },
+    "understood": {
+        "Adjective": [
+            "positive"
+        ]
+    },
+    "calm": {
+        "Adjective": [
+            "positive"
+        ]
+    },
+    "complete": {
+        "Adjective": [
+            "positive"
+        ]
+    },
+    "confident": {
+        "Adjective": [
+            "positive"
+        ]
+    },
+    "perfect": {
+        "Adjective": [
+            "positive"
+        ]
+    },
+    "powerful": {
+        "Adjective": [
+            "positive"
+        ]
+    },
+    "aligned": {
+        "Adjective": [
+            "positive"
+        ]
+    },
+    "greatest": {
+        "Adjective": [
+            "positive"
+        ]
+    },
+    "holding": {
+        "Verb": [
+            "mental"
+        ]
+    },
+    "imagining": {
+        "Verb": [
+            "mental",
+            "social"
+        ]
+    },
+    "identifying": {
+        "Verb": [
+            "mental"
+        ]
+    },
+    "projecting": {
+        "Verb": [
+            "mental"
+        ]
+    },
+    "detaching": {
+        "Verb": [
+            "mental"
+        ]
+    },
+    "approaching": {
+        "Verb": [
+            "mental"
+        ]
+    },
+    "trusting": {
+        "Verb": [
+            "mental"
+        ]
+    },
+    "creating": {
+        "Verb": [
+            "mental"
+        ]
+    },
+    "cultivate": {
+        "Verb": [
+            "mental"
+        ]
+    },
+    "knowing": {
+        "Verb": [
+            "mental"
+        ]
+    },
+    "aligning": {
+        "Verb": [
+            "mental",
+            "social"
+        ]
+    },
+    "remaining faithful": {
+        "Verb": [
+            "emotional"
+        ]
+    },
+    "feeling": {
+        "Verb": [
+            "emotional"
+        ]
+    },
+    "worrying": {
+        "Verb": [
+            "emotional"
+        ]
+    },
+    "translates": {
+        "Verb": [
+            "emotional"
+        ]
+    },
+    "supporting": {
+        "Verb": [
+            "social"
+        ]
+    },
+    "loving": {
+        "Verb": [
+            "social"
+        ]
+    },
+    "trust them to support me": {
+        "Noun": [
+            "support"
+        ]
+    },
+    "any worries about life": {
+        "Noun": [
+            "worries"
+        ]
+    },
+    "confidence in my ability to create": {
+        "Noun": [
+            "confidence"
+        ]
+    },
+    "a state of confidence": {
+        "Noun": [
+            "confidence"
+        ]
+    },
+    "the changes I desire": {
+        "Noun": [
+            "changes"
+        ]
+    },
+    "the solutions I desire": {
+        "Noun": [
+            "solution"
+        ]
+    },
+    "the people in my life": {
+        "Noun": [
+            "people"
+        ]
+    },
+    "people love me and support me": {
+        "Noun": [
+            "people"
+        ],
+        "Verb": [
+            "love"
+        ]
+    },
+    "the humans around them": {
+        "Noun": [
+            "people"
+        ]
+    },
+    "worrying about shit": {
+        "Noun": [
+            "shit"
+        ]
+    },
+    "someone who is fully supported": {
+        "Adjective": [
+            "fully supported"
+        ]
+    },
+    "negatively projecting any evil perceptions": {
+        "Adjective": [
+            "negative"
+        ]
+    },
+    "completely detaching my brain": {
+        "Adjective": [
+            "complete"
+        ],
+        "Verb": [
+            "detaching"
+        ]
+    },
+    "completely powerful": {
+        "Adjective": [
+            "complete"
+        ]
+    },
+    "the utmost calm": {
+        "Adjective": [
+            "utmost"
+        ]
+    },
+    "my greatest inner powers": {
+        "Adjective": [
+            "inner"
+        ]
+    },
+    "my life is perfect": {
+        "Adjective": [
+            "perfect"
+        ]
+    },
+    "aligned with my greatest inner powers": {
+        "Adjective": [
+            "greatest"
+        ],
+        "Verb": [
+            "aligned"
+        ]
+    },
+    "trusting and knowing securely in myself": {
+        "Verb": [
+            "trusting",
+            "knowing"
+        ]
+    },
+    "remaining faithful to feeling happy": {
+        "Verb": [
+            "remaining"
+        ]
+    },
+    "identifying as someone who is fully supported": {
+        "Verb": [
+            "identifying"
+        ]
+    },
+    "completely empowered to create": {
+        "Verb": [
+            "empowered"
+        ]
+    },
+    "a state of confidence that translates": {
+        "Verb": [
+            "translates"
+        ]
+    },
+    "able to cultivate a state of complete confidence": {
+        "Verb": [
+            "cultivate"
+        ]
+    },
+    "no longer worrying about shit": {
+        "Verb": [
+            "worrying"
+        ]
+    }
+}
